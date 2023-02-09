@@ -1,0 +1,31 @@
+Título:,Mis alumnos y alumnas,,
+Autor:,Plataforma Papas, Seguimiento Educativo. Educaci?n, Cultura y Deportes. Castilla-La Mancha
+Fecha de creación:,14/02/2022 - 21:06,,
+,,,
+Alumno,Curso,Grupo,
+Alegre Fuentes, Andrea,1º de CFGS (LOE) - Desarrollo de Aplicaciones Multiplataforma,DAM1
+Alia Otero, Pablo,1º de CFGS (LOE) - Desarrollo de Aplicaciones Multiplataforma,DAM1
+Alonso Cañizares, Alejandro,1º de CFGS (LOE) - Desarrollo de Aplicaciones Multiplataforma,DAM1
+Carbonero Rodríguez, Carlos,1º de CFGS (LOE) - Desarrollo de Aplicaciones Multiplataforma,DAM1
+Fernández Gómez, Benjamín,1º de CFGS (LOE) - Desarrollo de Aplicaciones Multiplataforma,DAM1
+García López, Jesús,1º de CFGS (LOE) - Desarrollo de Aplicaciones Multiplataforma,DAM1
+García de las Heras Ramos, Daniel,1º de CFGS (LOE) - Desarrollo de Aplicaciones Multiplataforma,DAM1
+Gómez Galán, Daniel,1º de CFGS (LOE) - Desarrollo de Aplicaciones Multiplataforma,DAM1
+GONZALEZ MUÑOZ, ROSA MARIA,1º de CFGS (LOE) - Desarrollo de Aplicaciones Multiplataforma,DAM1
+González García, David,1º de CFGS (LOE) - Desarrollo de Aplicaciones Multiplataforma,DAM1
+Jara Cordobés, Rubén,1º de CFGS (LOE) - Desarrollo de Aplicaciones Multiplataforma,DAM1
+López Hernández, Alberto,1º de CFGS (LOE) - Desarrollo de Aplicaciones Multiplataforma,DAM1
+López Martín, Diego,1º de CFGS (LOE) - Desarrollo de Aplicaciones Multiplataforma,DAM1
+Machín Yébenes, Javier,1º de CFGS (LOE) - Desarrollo de Aplicaciones Multiplataforma,DAM1
+Martin Velardo, Elia,1º de CFGS (LOE) - Desarrollo de Aplicaciones Multiplataforma,DAM1
+Moreno Sánchez, Héctor,1º de CFGS (LOE) - Desarrollo de Aplicaciones Multiplataforma,DAM1
+Pedraza Rafael de la Cruz, Diego,1º de CFGS (LOE) - Desarrollo de Aplicaciones Multiplataforma,DAM1
+Pérez de la Fuente, Alberto,1º de CFGS (LOE) - Desarrollo de Aplicaciones Multiplataforma,DAM1
+Ramiro Martín, Álvaro,1º de CFGS (LOE) - Desarrollo de Aplicaciones Multiplataforma,DAM1
+Rodríguez Sanmartín, Daniel,1º de CFGS (LOE) - Desarrollo de Aplicaciones Multiplataforma,DAM1
+Sánchez-Izquierdo García-Heras, Jesús,1º de CFGS (LOE) - Desarrollo de Aplicaciones Multiplataforma,DAM1
+Telcian , Ovidut Andrei,1º de CFGS (LOE) - Desarrollo de Aplicaciones Multiplataforma,DAM1
+Torralba Cuadrado, Daniel,1º de CFGS (LOE) - Desarrollo de Aplicaciones Multiplataforma,DAM1
+Valero Vázquez, Diego,1º de CFGS (LOE) - Desarrollo de Aplicaciones Multiplataforma,DAM1
+Villanueva García, Alejandro José,1º de CFGS (LOE) - Desarrollo de Aplicaciones Multiplataforma,DAM1
+Yu Zhu, Ramón,1º de CFGS (LOE) - Desarrollo de Aplicaciones Multiplataforma,DAM1

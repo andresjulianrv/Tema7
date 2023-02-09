@@ -1,0 +1,4 @@
+Maria Ortiz 10 3 2 4 5 4 5
+Rosa Lopez 2 5 9 1 2 3 1 2
+Alberto Garcia 1 1 4 2 4 5 6
+Carmen Medina 4 6 9 4 8 4 5

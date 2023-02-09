@@ -1,0 +1,20 @@
+	*)Tornillo
+Peso total: 0.0
+	*)Clavo
+Peso total: 0.0
+Peso total: 0.0
+Peso total: 0.0
+Peso total: 0.0
+Peso total: 0.0
+Peso total: 0.0
+	*)Arandela
+Peso total: 0.0
+Peso total: 0.0
+Peso total: 0.0
+Peso total: 0.0
+Peso total: 0.0
+Peso total: 0.0
+	*)Chinchetas
+Peso total: 0.0
+	*)Martillo
+Peso total: 0.0
